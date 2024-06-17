@@ -1,0 +1,93 @@
+[submodule "interactive-pricing-component"]
+	path = interactive-pricing-component
+	url = https://github.com/RomaLetodiani/interactive-pricing-component.git
+[submodule "Recipe-page"]
+	path = Recipe-page
+	url = https://github.com/RomaLetodiani/Recipe-Page.git
+[submodule "Social-Links-Profile"]
+	path = Social-Links-Profile
+	url = https://github.com/RomaLetodiani/Social-Links-Profile.git
+[submodule "huddle-with-curves"]
+	path = huddle-with-curves
+	url = https://github.com/RomaLetodiani/huddle-with-curves.git
+[submodule "huddle-with-feature-blocks"]
+	path = huddle-with-feature-blocks
+	url = https://github.com/RomaLetodiani/huddle-with-feature-blocks.git
+[submodule "News-Homepage"]
+	path = News-Homepage
+	url = https://github.com/RomaLetodiani/News-Homepage.git
+[submodule "fylo-landing-page"]
+	path = fylo-landing-page
+	url = https://github.com/RomaLetodiani/fylo-landing-page.git
+[submodule "Newsletter-sign-up"]
+	path = Newsletter-sign-up
+	url = https://github.com/RomaLetodiani/Newsletter-sign-up.git
+[submodule "Faq-Accordion"]
+	path = Faq-Accordion
+	url = https://github.com/RomaLetodiani/Faq-Accordion.git
+[submodule "Blog-preview-card"]
+	path = Blog-preview-card
+	url = https://github.com/RomaLetodiani/Blog-preview-card
+[submodule "clipboard-landing-page"]
+	path = clipboard-landing-page
+	url = https://github.com/RomaLetodiani/clipboard-landing-page
+[submodule "interactive-rating-component"]
+	path = interactive-rating-component
+	url = https://github.com/RomaLetodiani/interactive-rating-component
+[submodule "faq-accordion-card"]
+	path = faq-accordion-card
+	url = https://github.com/RomaLetodiani/faq-accordion-card
+[submodule "base-apparel-coming-soon"]
+	path = base-apparel-coming-soon
+	url = https://github.com/RomaLetodiani/base-apparel-coming-soon
+[submodule "ping-coming-soon-page"]
+	path = ping-coming-soon-page
+	url = https://github.com/RomaLetodiani/ping-coming-soon-page
+[submodule "Intro-component-with-sign-up-form"]
+	path = Intro-component-with-sign-up-form
+	url = https://github.com/RomaLetodiani/Intro-component-with-sign-up-form
+[submodule "article-preview-component"]
+	path = article-preview-component
+	url = https://github.com/RomaLetodiani/article-preview-component
+[submodule "Testimonials-grid"]
+	path = Testimonials-grid
+	url = https://github.com/RomaLetodiani/Testimonials-grid
+[submodule "fylo-data-storage-component"]
+	path = fylo-data-storage-component
+	url = https://github.com/RomaLetodiani/fylo-data-storage-component
+[submodule "Four-card-feature-section"]
+	path = Four-card-feature-section
+	url = https://github.com/RomaLetodiani/Four-card-feature-section
+[submodule "Huddle-landing-page"]
+	path = Huddle-landing-page
+	url = https://github.com/RomaLetodiani/Huddle-landing-page
+[submodule "Single-Price-Grid"]
+	path = Single-Price-Grid
+	url = https://github.com/RomaLetodiani/Single-Price-Grid
+[submodule "Social-Proof-Section"]
+	path = Social-Proof-Section
+	url = https://github.com/RomaLetodiani/Social-Proof-Section
+[submodule "Profile-component"]
+	path = Profile-component
+	url = https://github.com/RomaLetodiani/Profile-component
+[submodule "Stats-preview-card"]
+	path = Stats-preview-card
+	url = https://github.com/RomaLetodiani/Stats-preview-card
+[submodule "nft-preview-card"]
+	path = nft-preview-card
+	url = https://github.com/RomaLetodiani/nft-preview-card
+[submodule "product-preview-card"]
+	path = product-preview-card
+	url = https://github.com/RomaLetodiani/product-preview-card
+[submodule "results-summary-component"]
+	path = results-summary-component
+	url = https://github.com/RomaLetodiani/results-summary-component
+[submodule "QR-Code"]
+	path = QR-Code
+	url = https://github.com/RomaLetodiani/QR-Code
+[submodule "3-column-preview-card"]
+	path = 3-column-preview-card
+	url = https://github.com/RomaLetodiani/3-column-preview-card
+[submodule "order-summary"]
+	path = order-summary
+	url = https://github.com/RomaLetodiani/order-summary
