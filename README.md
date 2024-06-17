@@ -36,6 +36,15 @@ This repository contains various Frontend Mentor challenges as submodules. Each 
 30. [3 Column Preview Card](https://github.com/RomaLetodiani/3-column-preview-card)
 31. [Order Summary](https://github.com/RomaLetodiani/order-summary)
 32. [interactive-card-details-form](https://github.com/RomaLetodiani/interactive-card-details-form)
+33. [Multi-Step-Form](https://github.com/RomaLetodiani/Multi-Step-Form)
+34. [space-tourism](https://github.com/RomaLetodiani/space-tourism)
+35. [To-Do-App](https://github.com/RomaLetodiani/To-Do-App)
+36. [Mindful Mate](https://github.com/RomaLetodiani/MindfullMate)
+37. [Countdown](https://github.com/RomaLetodiani/Countdown)
+38. [Rock-Paper-Scissors](https://github.com/RomaLetodiani/Rock-Paper-Scissors)
+39. [ip-address-tracker](https://github.com/RomaLetodiani/ip-address-tracker)
+40. [Calculator](https://github.com/RomaLetodiani/Calculator)
+41. [Countries-Rest-Api](https://github.com/RomaLetodiani/Countries-Rest-Api)
 
 ## Cloning the Repository
 

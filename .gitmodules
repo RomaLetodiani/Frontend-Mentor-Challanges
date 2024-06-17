@@ -94,3 +94,30 @@
 [submodule "interactive-card-details-form"]
 	path = interactive-card-details-form
 	url = https://github.com/RomaLetodiani/interactive-card-details-form
+[submodule "Multi-Step-Form"]
+	path = Multi-Step-Form
+	url = https://github.com/RomaLetodiani/Multi-Step-Form
+[submodule "space-tourism"]
+	path = space-tourism
+	url = https://github.com/RomaLetodiani/space-tourism
+[submodule "To-Do-App"]
+	path = To-Do-App
+	url = https://github.com/RomaLetodiani/To-Do-App
+[submodule "MindfullMate"]
+	path = MindfullMate
+	url = https://github.com/RomaLetodiani/MindfullMate
+[submodule "Countdown"]
+	path = Countdown
+	url = https://github.com/RomaLetodiani/Countdown
+[submodule "Rock-Paper-Scissors"]
+	path = Rock-Paper-Scissors
+	url = https://github.com/RomaLetodiani/Rock-Paper-Scissors
+[submodule "ip-address-tracker"]
+	path = ip-address-tracker
+	url = https://github.com/RomaLetodiani/ip-address-tracker
+[submodule "Calculator"]
+	path = Calculator
+	url = https://github.com/RomaLetodiani/Calculator
+[submodule "Countries-Rest-Api"]
+	path = Countries-Rest-Api
+	url = https://github.com/RomaLetodiani/Countries-Rest-Api
