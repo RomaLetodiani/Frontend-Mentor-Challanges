@@ -91,3 +91,6 @@
 [submodule "order-summary"]
 	path = order-summary
 	url = https://github.com/RomaLetodiani/order-summary
+[submodule "interactive-card-details-form"]
+	path = interactive-card-details-form
+	url = https://github.com/RomaLetodiani/interactive-card-details-form
