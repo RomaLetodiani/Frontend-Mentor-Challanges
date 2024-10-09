@@ -45,6 +45,7 @@ This repository contains various Frontend Mentor challenges as submodules. Each 
 39. [ip-address-tracker](https://github.com/RomaLetodiani/ip-address-tracker)
 40. [Calculator](https://github.com/RomaLetodiani/Calculator)
 41. [Countries-Rest-Api](https://github.com/RomaLetodiani/Countries-Rest-Api)
+42. [bento-grid](https://github.com/RomaLetodiani/bento-grid)
 
 ## Cloning the Repository
 
