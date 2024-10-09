@@ -121,6 +121,3 @@
 [submodule "Countries-Rest-Api"]
 	path = Countries-Rest-Api
 	url = https://github.com/RomaLetodiani/Countries-Rest-Api
-[submodule "bento-grid"]
-	path = bento-grid
-	url = https://github.com/RomaLetodiani/bento-grid
